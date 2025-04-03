@@ -22,6 +22,10 @@
 - Vomar: 4.55  
 
 ## Cheese
+### Cream cheese with herbs
+- https://www.ah.nl/producten/product/wi257/ah-kruiden-roomkaas  
+- https://www.ah.nl/producten/product/wi239019/garlan-verse-roomkaas-met-kruiden  
+- https://www.vomar.nl/producten/vers/kaas/garlan-roomkaas-150-gram/118881 (cheaper per kg than AH Kruiden Roomkaas)  
 ### Goudse jong
 - https://www.ah.nl/producten/product/wi197226/de-zaanse-hoeve-goudse-jong-48-plakken-voordeel  
 - https://www.vomar.nl/producten/vers/kaas/kaas-jong-gesneden-400gr/111853  
