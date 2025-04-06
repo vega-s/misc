@@ -3,6 +3,7 @@
 |- [Honey Bsss Loops](#honey-bsss-loops)  
 |- [Oreo's cereal](#oreo-s-cereal)  
 [Cheese](#cheese)  
+|- [Cream cheese with herbs](#cream-cheese-with-herbs)  
 |- [Goudse jong](#goudse-jong)  
 [Sausage](#sausage)  
 |- [Chatar](#chatar)  
