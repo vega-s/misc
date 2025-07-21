@@ -16,11 +16,11 @@
 
 ### Honey Bsss Loops
 - https://www.ah.nl/producten/product/wi560779/kellogg-s-honey-bsss-loops  
-- Vomar: 3.39  
+- Vomar: 3.45  
 
 ### Oreo's cereal
 - https://www.ah.nl/producten/product/wi516927/oreo-o-s-cereal  
-- Vomar: 4.55  
+- Vomar: 4.35, https://www.vomar.nl/producten/voorraadkast/ontbijt/oreo-o-s-cereal/151162  
 
 ## Cheese
 ### Cream cheese with herbs
