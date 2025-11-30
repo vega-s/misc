@@ -7,7 +7,7 @@
 [Cheese](#cheese)  
 |- [Cream cheese with herbs](#cream-cheese-with-herbs)  
 |- [Goudse jong](#goudse-jong)  
-[Eggs](#eggs)
+[Eggs](#eggs)  
 [Nuts](#nuts)
 |- [Pine nuts](#pine-nuts)  
 [Sausage](#sausage)  
@@ -39,7 +39,7 @@
 
 ## Eggs
 - https://www.ah.nl/producten/product/wi588275/ah-scharreleieren: 3.19
-- Eggs 12 pieces: 2.99  
+- Vomar: 12 pieces 2.99  
 
 ## Nuts
 ### Pine nuts
