@@ -6,7 +6,8 @@
 |- [Cream cheese with herbs](#cream-cheese-with-herbs)  
 |- [Goudse jong](#goudse-jong)  
 [Sausage](#sausage)  
-|- [Chatar](#chatar)  
+|- [Chatar](#chatar)
+|- [Tavuk Salami](#tavuk-salami)
 
 # Groceries price comparison
 ## Cereals
