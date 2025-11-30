@@ -32,10 +32,16 @@
 - https://www.ah.nl/producten/product/wi197226/de-zaanse-hoeve-goudse-jong-48-plakken-voordeel: 4.55, 11.38/kg  
 - https://www.vomar.nl/producten/vers/kaas/kaas-jong-gesneden-400gr/111853: 3.59, 8.98/kg  
 
+## Nuts
+### Pine nuts
+- https://www.ah.nl/producten/product/wi58339: 65g 4.49, 69.08/kg  
+- https://www.ah.nl/producten/product/wi415609/ah-pijnboompitten: 150g 7.49, 49.93/kg  
+- Vomar: 75g 2.99, 39.87/kg  
+
 ## Sausage
 ### Chatar
 - https://www.ah.nl/producten/product/wi588679/chatar-rundworst-mild: 1.59  
 - Vomar: 1.45  
 ### Tavuk Salami
 - https://www.ah.nl/producten/product/wi540726/fulya-tavuk-salami: 2.99
-- Vomar: ???
+- Vomar: 2.79
