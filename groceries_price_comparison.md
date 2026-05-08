@@ -22,7 +22,7 @@
 ## Cereals
 ### Frosties
 - https://www.ah.nl/producten/product/wi560777/kellogg-s-frosties: 3.59  
-- Vomar: 3.29 ?  
+- Vomar: 3.45  
 
 ### Honey Bsss Loops
 - https://www.ah.nl/producten/product/wi560779/kellogg-s-honey-bsss-loops: 3.59  
@@ -42,11 +42,11 @@
 - https://www.vomar.nl/producten/vers/kaas/kaas-jong-gesneden-400gr/111853: 3.59, 8.98/kg  
 ### Grana padano
 - https://www.ah.nl/producten/product/wi497553/ah-grana-padano-poeder: 3.59, 23.93/kg  
-- Vomar: 3.49 ?  
+- Vomar: 3.49  
 
 ## Eggs
 - https://www.ah.nl/producten/product/wi588275/ah-scharreleieren: 12 pieces 3.75
-- Vomar: 12 pieces 3.45 ?  
+- Vomar: 12 pieces 2.95 / 3.45  
 
 ## Nuts
 ### Pine nuts
@@ -57,10 +57,10 @@
 ## Sausage
 ### Chatar
 - ~~https://www.ah.nl/producten/product/wi588679/chatar-rundworst-mild: 1.69~~  
-- Vomar: 1.45 ?  
+- Vomar: 280g 1.69  
 ### Tavuk Salami
 - https://www.ah.nl/producten/product/wi540726/fulya-tavuk-salami: 2.99
-- Vomar: 2.79 ?  
+- Vomar: 2.89  
 
 ## Smoked salmon
 - https://www.ah.nl/producten/product/wi130191/ah-gerookte-zalm: 100g 4.59, 45.90/kg  
