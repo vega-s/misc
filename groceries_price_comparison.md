@@ -8,6 +8,8 @@
 |- [Cream cheese with herbs](#cream-cheese-with-herbs)  
 |- [Goudse jong](#goudse-jong)  
 |- [Grana padano](#grana-padano)  
+[Chocolate](#chocolate)  
+|- [Chocolate orange](#chocolate-orange)  
 [Eggs](#eggs)  
 [Nuts](#nuts)  
 |- [Pine nuts](#pine-nuts)  
@@ -44,8 +46,13 @@
 - https://www.ah.nl/producten/product/wi497553/ah-grana-padano-poeder: 3.59, 23.93/kg  
 - Vomar: 3.49  
 
+## Chocolate
+### Chocolate orange
+- https://www.ah.nl/producten/product/wi474072/lonka-sinassnippers: 2.99  
+- https://www.vomar.nl/producten/voorraadkast/chocolade-snoep/lonka-sinas-snippers-244gr/136947: 2.79  
+
 ## Eggs
-- https://www.ah.nl/producten/product/wi588275/ah-scharreleieren: 12 pieces 3.75
+- https://www.ah.nl/producten/product/wi588275/ah-scharreleieren: 12 pieces 3.75  
 - Vomar: 12 pieces 2.95 / 3.45  
 
 ## Nuts
@@ -60,7 +67,7 @@
 - Vomar: 280g 1.69  
 ### Tavuk Salami
 - https://www.ah.nl/producten/product/wi540726/fulya-tavuk-salami: 2.99
-- Vomar: 2.89  
+- Vomar: 2.95  
 
 ## Smoked salmon
 - https://www.ah.nl/producten/product/wi130191/ah-gerookte-zalm: 100g 4.59, 45.90/kg  
